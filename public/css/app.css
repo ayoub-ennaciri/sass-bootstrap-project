@@ -9,11 +9,25 @@ a {
 }
 
 .grey-text {
-  color: #d9d9d9;
+  color: rgba(217, 217, 217, 0.2666666667);
 }
 
 .text-white {
   color: white;
+}
+
+.hero {
+  background-image: url(../../../../public/images/profile/profile-bg-5.webp);
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.socials a {
+  color: white;
+  background-color: rgba(217, 217, 217, 0.2);
+  width: 4vw;
+  height: 4vw;
 }
 
 /*!
